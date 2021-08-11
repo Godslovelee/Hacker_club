@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039856841359",
+    "project_id": "hackerklub-2e724",
+    "storage_bucket": "hackerklub-2e724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039856841359:android:f7d869287c70272e0bf6fa",
+        "android_client_info": {
+          "package_name": "com.hacker_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039856841359-kft8rhd6ff9ekked80832hsd980li9nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacker_club",
+            "certificate_hash": "76c05996dd45db5d271f1a2de13b75890282c918"
+          }
+        },
+        {
+          "client_id": "1039856841359-ni1vsblom21b4qj4ukhqrcjtlbnl4nve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH0wNwnCdk9ApcUdi-1ms0YW3eIE2NAYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039856841359-ni1vsblom21b4qj4ukhqrcjtlbnl4nve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
