@@ -11,7 +11,7 @@ read, blogs, docs and the likes
 but actively working to make it bere
 
 
-# Initialization and
+# Initialization and /
 # requirements
 ```yaml
 dev_dependencies:
