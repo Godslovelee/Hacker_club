@@ -63,8 +63,9 @@ class _OurRootState extends State<OurRoot> {
         break;
          case AuthStatus.inGroup:
         retVal = ChangeNotifierProvider(create: (BuildContext context) => CurrentGroup(),
-        child: HomeScreen(),);
-        break;
+        //child: HomeScreen(),
+    // );
+        );break;
       default:
     }
 
