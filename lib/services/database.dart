@@ -3,7 +3,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:hacker_club/models/group.dart';
 import 'package:hacker_club/models/user.dart';
-import 'package:hacker_club/models/book.dart';
+import 'package:hacker_club/models/book.dartf';
 
 class OurDatabase {
   final Firestore _firestore = Firestore.instance;
