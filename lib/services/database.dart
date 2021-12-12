@@ -47,7 +47,7 @@ class OurDatabase {
     try {
       members.add(userUid);
 
-      DocumentReference _docRef = await _firestore.collection("groupsf").add({
+      DocumentReference _docRef = await _firestore.collection("groups").add({
         'name': groupName,
         'leader': userUid,
         'members': members,
