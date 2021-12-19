@@ -33,7 +33,7 @@ class OurDatabase {
       retVal.uid = uid;
       retVal.fullName = _docSnapshot.data["fullName"];
       retVal.email = _docSnapshot.data["email"];
-      retVal.aacountCreated = _docSnapshot.data["accountCreddsated"];
+      retVal.aacountCreated = _docSnapshot.data["accountCrdsdeddsated"];
       retVal.groupId = _docSnapshot.data["groupId"];
     } catch (e) {}
 
