@@ -1,9 +1,7 @@
 # hacker_club
 # implementation
 An app written in dart,
-A forum where people interested in hacking stuffs
-can join minds together and release a forum for people to
-read, blogs, docs and the likes
+A forum where people interested in hacking stuffs can join minds together and release a forum for people to read, blogs, docs and the likes
 
 
 # disclaimer
